@@ -11,10 +11,11 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/eltonlazzarin/devFindfy">
   
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eltonlazzarin/devFindfy">
-
-  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/devFindfy">
   
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/devFindfy">
+
+![GitHub](https://img.shields.io/github/license/eltonlazzarin/devFindfy)
+
 </p>
 
 This projects was developed with the following technologies:
