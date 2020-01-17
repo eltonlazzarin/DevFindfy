@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  DevFindfy was developed during OmniStack 10 week where the API was built on Node.js and consumed with ReactJS in the web application and React Native for mobile devices. For better use of the project, the user needs to have a Github account, where he will register via web application and find other developers accessing the mobile application by searching for the technologies of his choice.
+  DevFindfy was developed during Semana OmniStack 10 workshop, where the API was built on Node.js and consumed with ReactJS in the web application and React Native for mobile devices. For better use of the project, the user needs to have a Github account, where user will register via web application and find other developers accessing the mobile application by searching for the technologies of his choice.
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/devFindfy">
@@ -117,7 +117,7 @@ $ yarn start
 
 1. Go to your app store, look for the app called <strong>Expo</strong>, and install it on your device.
 
-2. With the app installed, open it and click <strong>Scan QR Code</strong>, point the camera phone to the QR code shown on the page that opened after executing the command yarn start and ready, the app will load and be ready for use.
+2. With the app installed, open it and click on <strong>Scan QR Code</strong>, point the camera phone to the QR code shown on the page that opened after executing the command yarn start and ready, the app will load and be ready for use.
 
 ### :memo: License
 
