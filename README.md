@@ -16,6 +16,8 @@
 
   <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/devFindfy">
 
+</p>
+
 This projects was developed with the following technologies:
 
 ### :rocket: Backend Technologies
