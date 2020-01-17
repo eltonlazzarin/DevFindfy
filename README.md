@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  DevFindfy was developed during Semana OmniStack 10 workshop, where the API was built on Node.js and consumed with ReactJS in the web application and React Native for mobile devices. For better use of the project, the user needs to have a Github account, where user will register via web application and find other developers accessing the mobile application by searching for the technologies of his choice.
+  DevFindfy was developed during Semana OmniStack 10 workshop, where the API was built on Node.js and consumed with ReactJS in the web application and React Native for mobile devices. For better use of the project, the user needs to have a Github account, where the user will register via web application and find other developers accessing the mobile application by searching for the technologies of his choice.
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/devFindfy">
