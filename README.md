@@ -6,13 +6,13 @@
   DevFindfy was developed during OmniStack 10 week where the API was built on Node.js and consumed with ReactJS in the web application and React Native for mobile devices. For better use of the project, the user needs to have a Github account, where he will register via web application and find other developers accessing the mobile application by searching for the technologies of his choice.
 </h4>
 <p align="center">
-  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/devFindfy">
-
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/devFindfy">
   
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/eltonlazzarin/devFindfy">
   
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eltonlazzarin/devFindfy">
+
+  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/devFindfy">
   
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/devFindfy">
 </p>
