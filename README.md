@@ -14,8 +14,7 @@
   
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/devFindfy">
 
-![GitHub](https://img.shields.io/github/license/eltonlazzarin/devFindfy)
-
+  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/devFindfy">  
 </p>
 
 This projects was developed with the following technologies:
