@@ -115,9 +115,9 @@ $ yarn start
 
 ## Install the app on real mobile
 
--> Go to your app store, look for the app called Expo, and install it on your device.
+1. Go to your app store, look for the app called <strong>Expo</strong>, and install it on your device.
 
--> With the app installed, open it and click Scan QR Code, point the camera phone to the QR code shown on the page that opened after executing the command yarn start and ready, the app will load and be ready for use.
+2. With the app installed, open it and click <strong>Scan QR Code</strong>, point the camera phone to the QR code shown on the page that opened after executing the command yarn start and ready, the app will load and be ready for use.
 
 ### :memo: License
 
