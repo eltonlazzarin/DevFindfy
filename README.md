@@ -14,8 +14,6 @@
   
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/devFindfy">
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/devFindfy">
-
 This projects was developed with the following technologies:
 
 ### :rocket: Backend Technologies
@@ -113,17 +111,16 @@ $ yarn
 
 # Run Expo app
 $ yarn start
-
-# Install the app on real mobile
-- Go to your app store, look for the app called Expo, and install it on your device.
-
-- With the app installed, open it and click Scan QR Code, point the camera phone to the QR code shown on the page that opened after executing the command yarn start and ready, the app will load and be ready for use.
 ```
+
+## Install the app on real mobile
+
+-> Go to your app store, look for the app called Expo, and install it on your device.
+
+-> With the app installed, open it and click Scan QR Code, point the camera phone to the QR code shown on the page that opened after executing the command yarn start and ready, the app will load and be ready for use.
 
 ### :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/devFindfy/blob/master/LICENSE) for more information.
-
----
+## This project is under the MIT license.
 
 Made with ♥ by Elton Lazzarin :wave: [Get in touch!](https://www.linkedin.com/in/eltonlazzarin/)
