@@ -95,7 +95,7 @@ This project was developed with the following technologies:
 - [Axios](https://github.com/axios/axios)
 - [React-Navigation-Stack](https://github.com/react-navigation)
 - [Socket.io-client](https://github.com/socketio/socket.io-client)
-- [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)s
+- [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
 
 ## :information_source: How To Use
 
