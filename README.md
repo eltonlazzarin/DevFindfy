@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/eltonlazzarin/devFindfy/blob/master/frontend/screenshots/radar.svg" alt="Header Image" height="90px" width="90px" />
+    <img src="https://github.com/eltonlazzarin/devFindfy/blob/master/frontend/screenshots/radar.svg" alt="Header Image" height="110px" width="110px" />
     <br />
     DevFindfy FullStack App
 </h1>
