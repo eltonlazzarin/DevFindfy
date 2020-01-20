@@ -115,7 +115,7 @@ $ yarn
 $ yarn start
 ```
 
-## Install the app on real mobile
+## Install the app on a physical phone
 
 1. Go to your app store, look for the app called <strong>Expo</strong>, and install it on your device.
 
