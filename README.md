@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> 
     <img src="https://github.com/eltonlazzarin/devFindfy/blob/master/frontend/screenshots/radar.svg" alt="Header Image" height="110px" width="110px" />
     <br />
     DevFindfy FullStack App
