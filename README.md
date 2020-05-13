@@ -18,7 +18,7 @@
 
 This projects was developed with the following technologies:
 
-### :rocket: Backend Technologies
+## :rocket: Backend Technologies
 
 - [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
@@ -51,7 +51,7 @@ This project is under the MIT license.
 
 ---
 
-### :rocket: Frontend Technologies (WebApp)
+## :rocket: Frontend Technologies (WebApp)
 
 <img alt="Main Webpage" src="https://github.com/eltonlazzarin/devFindfy/blob/master/frontend/screenshots/mainPage.png">
 
